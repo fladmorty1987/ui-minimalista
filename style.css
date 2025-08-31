@@ -36,8 +36,11 @@ header {
 .ui-minimalista-btn:hover {
     background-color: #218838;
 }
+
 footer {
     margin-top: auto;
     padding: 20px;
     text-align: center;
+    width: 100%;
+    background-color: #f1f1f1;
 }
